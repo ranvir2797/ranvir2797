@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ranvir2797
 - 👀 I’m an aspiring Data Analyst with a background in Chemical Engineering
-- 🌱 I’m currently learning SQL
-- 📫 How to reach me at ranvir2797@gmail.com
+- 🌱 I’m currently trying to learn data analyst tools.
+- 📫 Reach me at ranvir2797@gmail.com
